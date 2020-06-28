@@ -16,6 +16,6 @@ This game runs on python3 and the only external library used is the pygame libra
 
 - Credit for the png images of the card pack goes to: Andrew Tidey http://creativecommons.org/publicdomain/zero/1.0/
 
-Licensed under MIT [License](LICENSE) 
+Licensed under [MIT License](LICENSE) 
 Thanks
 
