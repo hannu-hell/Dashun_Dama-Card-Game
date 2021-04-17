@@ -10,7 +10,7 @@ Players can see how many cards they have in their hand which is updated visually
 
 If a player absorbs the cards, it will be printed on to the console with the card that was played by the player and the opponent. Players will be able to visually see the cards played if a match hasn't been made.
 
-In order to run the game, each player would need to unpack the card_pack folder and place the card pngs and the other two files (if player 1 - server.py and game.py, if player 2 - client.py and game.py) in the same folder.
+In order to run the game, each player would need to unpack the card_pack folder and place the card pngs and the other two files (if player 1 - server.py and game.py, if player 2 - client.py and game.py) in the same folder. Make sure to update the host IP addresses of server.py and client.py files accordingly to make the required connection.
 
 This game runs on python3 and the only external library used is the pygame library which can be downloaded using pip/pip3.  
 
